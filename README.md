@@ -1,6 +1,6 @@
 # HPC Exercises
 
-This are HPC Exercises that are part the undergraduate HPC course at Faculty of Computer and Information Science Ljubljana.
+This are HPC Exercises that are part of the undergraduate HPC course at Faculty of Computer and Information Science Ljubljana.
 
 ## Note
 
