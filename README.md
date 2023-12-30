@@ -4,7 +4,7 @@ This are HPC Exercises that are part of the undergraduate HPC course at Faculty 
 
 ## Note
 
-Folder `md5-HPC` holds three implementations of running the md5 algorithm on HPC. This part was a group project so only one of them belongs to me.
+Folder `md5-HPC` holds three implementations of running the md5 algorithm on HPC. This part was a group project so only one of them belongs to me. The author of the base md5 algorithm is Alexander Peslyak.
 
 - `md5_mpi.c` belongs to me.
 - `pow_OpenMP.c` belongs to [Luka](https://github.com/lukapantar-personal).
